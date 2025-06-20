@@ -19,12 +19,10 @@ Build a **basic calculator** that performs simple arithmetic operations:
 - How to handle button click events using JavaScript
 - Basic DOM manipulation
 - Using `eval()` carefully for mathematical operations
-- Styling with responsive design in mind
 
 ## 📸 Preview
 
 ![Calculator Screenshot](./screenshot.png)  
-*(Replace this with an actual screenshot when available)*
 
 ## 🚀 Live Demo
 
@@ -36,4 +34,27 @@ Build a **basic calculator** that performs simple arithmetic operations:
 │ ├── index.js
 │ ├── style.css
 │ └── README.md
+
+
+---
+
+## 💡 Future Improvements
+
+- [Add press animations (scale or shadow when clicked)]
+- [Keyboard support: Allow typing numbers and operators from the keyboard.
+   Backspace button: Delete the last digit.
+   Percentage (%) operator: Add support for percentages.
+   Brackets () support: Allow operations with parentheses.
+   Copy to clipboard: One-click copy result
+  ]
+- [Store button values in a data attribute (e.g., <button data-value="7">7</button>)]
+
+---
+
+**Progress:** ✅ Completed  
+**Time Spent:** [1.5hour(1hr30min)]  
+**Mood:** 😎 [Motivated]
+
+---
+
 
