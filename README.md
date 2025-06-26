@@ -47,26 +47,8 @@ To build a solid portfolio and sharpen my skills in frontend development by comp
 Each day’s project will live in its own folder:
 
 [Day 1 – Simple Calculator](./Day01-Calculator/)
-[Day 3 -]()
-[Day 4 -]()
-[Day 5 -]()
-[Day 6 -]()
-[Day 7 -]()
-[Day 8 -]()
-[Day 9 -]()
-[Day 10 -]()
-[Day 11 -]()
-[Day 12 -]()
-[Day 13 -]()
-[Day 14 -]()
-[Day 15 -]()
-[Day 16 -]()
-[Day 17 -]()
-[Day 18 -]()
-[Day 19 -]()
-[Day 20 -]()
-[Day 21 -]()
-[Day 22 -]()
+[Day 2 – Tip Calculator](./Day02-tip-calculator/)
+
 
 
 
@@ -82,7 +64,7 @@ Each folder includes:
 | Day | Project | Status |
 |-----|---------|--------|
 | 01  | Simple Calculator | ✅ |
-| 02  | Portfolio Landing Page | 🔄 |
+| 02  | Tip Calculator | ✅ |
 | 03  | Responsive Navbar | ⏳ |
 | 04  | Product Card UI | ⏳ |
 | 05  | Testimonial Slider | ⏳ |
