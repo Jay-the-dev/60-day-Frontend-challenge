@@ -1,4 +1,4 @@
-# Day 1 – Tip Calculator
+# Day 2 – Tip Calculator
 
 ## 📅 Date
 June 26, 2025

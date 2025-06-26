@@ -65,7 +65,7 @@ Each folder includes:
 |-----|---------|--------|
 | 01  | Simple Calculator | ✅ |
 | 02  | Tip Calculator | ✅ |
-| 03  | Responsive Navbar | ⏳ |
+| 03  | TODO List | ✅ |
 | 04  | Product Card UI | ⏳ |
 | 05  | Testimonial Slider | ⏳ |
 | 06  | Blog Preview Page | ⏳ |
