@@ -1,0 +1,60 @@
+body{
+    background: #f0f8ff;
+    font-family: 'Seogoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    background: #fff;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0 , 0 , 0 , 0.1);
+    width: 300px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#taskInput{
+    outline: none;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #c4f0c5;
+    border-radius: 8px;
+    color: #232323;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+}
+
+li.completed span{
+    text-decoration: line-through;
+    color: #aaa;
+}
+
+button{
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
