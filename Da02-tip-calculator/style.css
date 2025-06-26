@@ -1,0 +1,56 @@
+/* General styles for tags */
+
+body{
+    font-family: sans-serif;
+    padding: 2rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+input{
+    width: 95%;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+}
+
+button{
+    padding: 0.8rem 1rem;
+    cursor: pointer;
+    width: 100%;
+    background: #3838f5;
+    color: #f2f2ff;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Specific styles */
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.tip-calculator{
+    width: 300px;
+    background: #f2f2ff;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 15px 5px 5px rgba(225, 225, 225, 0.2);
+}
+
+.tip-calculator label{
+    font-size: 15px;
+    margin-bottom: 15px;
+
+}
+
+.tip-calculator input{
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
