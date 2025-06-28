@@ -11,19 +11,6 @@ Welcome to my personal 60-day journey to becoming a **Frontend Developer**! This
 
 ---
 
-## 🗓️ Challenge Timeline
-
-**Start Date:** Monday, June 23, 2025  
-**End Date:** Friday, September 12, 2025  
-**Schedule:** Projects every **Monday to Friday** (No weekends)
-
-🧠 This schedule includes:
-- 60 total working days
-- 12 weeks of consistent learning
-- Room to rest and recharge on weekends
-
----
-
 ## 📌 Objective
 
 To build a solid portfolio and sharpen my skills in frontend development by completing focused projects and challenges for 60 total working days.
@@ -48,6 +35,8 @@ Each day’s project will live in its own folder:
 
 [Day 1 – Simple Calculator](./Day01-Calculator/)
 [Day 2 – Tip Calculator](./Day02-tip-calculator/)
+[Day 2 – Tip Calculator](./Day03-ToDo-list-app/)
+[Day 2 – Tip Calculator](./Day04-User-management-dashboard/)
 
 
 
@@ -66,7 +55,7 @@ Each folder includes:
 | 01  | Simple Calculator | ✅ |
 | 02  | Tip Calculator | ✅ |
 | 03  | TODO List | ✅ |
-| 04  | Product Card UI | ⏳ |
+| 04  | User Management Dashboard | ✅ |
 | 05  | Testimonial Slider | ⏳ |
 | 06  | Blog Preview Page | ⏳ |
 | 07  | JS Form Validation | ⏳ |
